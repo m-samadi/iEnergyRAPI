@@ -1,0 +1,3 @@
+SELECT Tag.DeviceId, Device.Name AS DeviceName, Tag.Id AS TagId, Tag.Name AS TagName FROM Tag, Device
+WHERE Tag.DeviceId = Device.Id
+ORDER BY Tag.DeviceId

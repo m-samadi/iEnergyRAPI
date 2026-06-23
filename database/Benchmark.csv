@@ -1,0 +1,20 @@
+"PT",1,"Single",1,"=<50",1900,158.33,36.54,5.21
+"PT",1,"Single",2,"51 to 100",1900,158.33,36.54,5.21
+"PT",1,"Single",3,"101 to 150",1900,158.33,36.54,5.21
+"PT",1,"Single",4,"151 to 200",1900,158.33,36.54,5.21
+"PT",1,"Single",5,">= 201",1900,158.33,36.54,5.21
+"PT",2,"Couple without children",1,"=<50",1900,158.33,36.54,5.21
+"PT",2,"Couple without children",2,"51 to 100",1900,158.33,36.54,5.21
+"PT",2,"Couple without children",3,"101 to 150",1900,158.33,36.54,5.21
+"PT",2,"Couple without children",4,"151 to 200",1900,158.33,36.54,5.21
+"PT",2,"Couple without children",5,">= 201",1900,158.33,36.54,5.21
+"PT",3,"Couple up to 2 children",1,"=<50",5000,416.67,96.15,13.7
+"PT",3,"Couple up to 2 children",2,"51 to 100",5000,416.67,96.15,13.7
+"PT",3,"Couple up to 2 children",3,"101 to 150",5000,416.67,96.15,13.7
+"PT",3,"Couple up to 2 children",4,"151 to 200",5000,416.67,96.15,13.7
+"PT",3,"Couple up to 2 children",5,">= 201",5000,416.67,96.15,13.7
+"PT",4,"Couple up to 4 children",1,"=<50",10900,908.33,209.62,29.86
+"PT",4,"Couple up to 4 children",2,"51 to 100",10900,908.33,209.62,29.86
+"PT",4,"Couple up to 4 children",3,"101 to 150",10900,908.33,209.62,29.86
+"PT",4,"Couple up to 4 children",4,"151 to 200",10900,908.33,209.62,29.86
+"PT",4,"Couple up to 4 children",5,">= 201",10900,908.33,209.62,29.86

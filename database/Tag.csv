@@ -1,0 +1,50 @@
+29280,1702,"Grid Import",20001,0,0,8447,-1
+29281,1039,"Power",21001,0,0,5105,158
+29282,1039,"Exported Active Energy",20002,0,0,5105,158
+29851,1702,"Grid Import",20001,0,0,8439,-1
+29852,1069,"Power",21001,0,0,5267,158
+29853,1069,"Exported Active Energy",20002,0,0,5267,158
+33623,443,"OMIE Surplus price",89509,0,0,2337,-1
+37208,1702,"Grid Import",20001,0,0,8442,-1
+37209,1496,"Power",21001,0,0,7308,158
+37212,1702,"Grid Export",20002,0,0,8442,-1
+37214,1496,"Total",40101,0,0,7722,158
+37215,1496,"Power",40102,0,0,7722,158
+41573,1499,"Voltage",20016,0,0,7153,158
+41574,1499,"Current",20015,0,0,7153,158
+41575,1499,"Active Power",21001,0,0,7153,158
+41576,1499,"Total Imported Active Energy",20001,0,0,7153,158
+41577,1499,"Total Exported Active Energy",20002,0,0,7153,158
+41647,1155,"Power",21001,0,0,7197,158
+41648,1702,"Grid Import",20001,0,0,8430,-1
+41649,1155,"Total Returned",20002,0,0,7197,158
+42098,1496,"Grid Voltage",20016,0,0,7301,158
+42099,1496,"Grid Frequency",20019,0,0,7301,158
+42100,1496,"AC Out Current",50009,0,0,7301,158
+42101,1496,"AC Out Power",50007,0,0,7301,158
+42102,1496,"Battery Voltage",50022,0,0,7301,158
+42103,1496,"Battery Current",50021,0,0,7301,158
+42104,1496,"Battery State of charge",50001,0,0,7301,158
+42105,1496,"Inverter State",51003,0,0,7301,158
+42106,1496,"Inverter Error",51005,0,0,7301,158
+42143,1496,"Inverter Switch Position",51004,0,1,7301,158
+42144,1496,"Inverter Input Current Limit Config",51013,0,1,7301,158
+42145,1496,"Inverter ESS disable charge flag phase",51016,0,0,7301,158
+42146,1496,"Inverter ESS disable feedback flag phase",51017,0,0,7301,158
+42149,1496,"Battery charging energy",50008,0,0,7301,158
+42150,1496,"Battery discharging energy",50014,0,0,7301,158
+42151,1496,"Battery Applied power",70027,0,0,7301,158
+42266,1496,"SC Mode",70018,0,1,7301,158
+42267,1496,"SC Target SoC",70011,0,1,7301,158
+42268,1496,"SC Minimum power",51011,0,1,7301,158
+43324,1496,"Flexibility Status",34015,1,0,7301,158
+43325,1496,"Flexibility Power Feed",21001,1,0,7301,158
+43326,1496,"FlexibilitySellingBids",80101,1,0,7301,158
+43615,1551,"Battery Voltage",10002,0,0,7601,158
+43616,1551,"Battery Current",50009,0,0,7601,158
+43617,1551,"Battery State of charge",50001,0,0,7601,158
+43618,1551,"Battery Status",10003,0,0,7601,158
+43619,1551,"Battery max charge current",20015,0,0,7601,158
+43620,1551,"Battery max discharge current",20015,0,0,7601,158
+43621,1551,"Battery SOH",50003,0,0,7601,158
+43622,1551,"Battery charge energy",50008,0,0,7601,158

@@ -1,0 +1,50 @@
+1,"0000000001","Número de dias abrangido pela fatura",1,1,31
+2,"0000000002","Número de meses considerados na fatura",1,1,31
+3,"0000000003","Ciclo tarifário do contrato de abastecimento (Diário, Semanal, etc.)",0,0,31
+4,"0000000004","Nível de distribuição da instação (BTE, MT, BT, MP)",0,0,31
+5,"0000000005","Potência instalada (kW)",1,0,9
+6,"0000000006","Total em euros faturado",1,1,1026
+7,"0000000007","Valor em euros descontado do total sem IVA",1,1,1026
+8,"0000000008","Custo em euros da fatura sem a contabilização do IVA e do desconto",1,1,1026
+9,"0000000009","Valor total da taxa de IVA em euros",1,1,1026
+10,"0000000010","Valor total da energia consumida em euros",1,1,1026
+11,"0000000011","Total da quantidade de energia ativa",1,1,2
+12,"0000000012","Quantidade de energia ativa consumida na ponta (kWh)",1,1,2
+13,"0000000013","Preço da energia ativa consumida na ponta (euros/kWh)",1,0,183
+14,"0000000014","Custo da energia ativa consumida na ponta (euros)",1,1,1026
+15,"0000000015","Quantidade de energia ativa consumida na cheia (kWh)",1,1,2
+16,"0000000016","Preço da energia ativa consumida na cheia (euros/kWh)",1,0,183
+17,"0000000017","Custo da energia ativa consumida na cheia (euros)",1,1,1026
+18,"0000000018","Quantidade de energia ativa consumida no vazio (kWh)",1,1,2
+19,"0000000019","Preço da energia ativa consumida no vazio (euros/kWh)",1,0,183
+20,"0000000020","Custo da energia ativa consumida no vazia (euros)",1,1,1026
+21,"0000000021","Quantidade de energia ativa consumida no super vazio (kWh)",1,1,2
+22,"0000000022","Preço da energia ativa consumida no super vazio (euros/kWh)",1,0,183
+23,"0000000023","Custo da energia ativa consumida no super vazio (euros)",1,1,1026
+24,"0000000024","Taxa de IVA a aplicar no custo da energia ativa (%)",1,0,7
+25,"0000000025","Preço da tarifa de acesso às redes da energia consumida na ponta (euros/kWh)",1,0,183
+26,"0000000026","Custo de acesso às redes da energia ativa consumida na ponta (euros)",1,1,1026
+27,"0000000027","Preço da tarifa de acesso às redes da energia consumida na cheia (euros/kWh)",1,0,183
+28,"0000000028","Custo de acesso às redes da energia ativa consumida na cheia (euros)",1,1,1026
+29,"0000000029","Preço da tarifa de acesso às redes da energia consumida no vazio (euros/kWh)",1,0,183
+30,"0000000030","Custo de acesso às redes da energia ativa consumida no vazio (euros)",1,1,1026
+31,"0000000031","Preço da tarifa de acesso às redes da energia consumida no super vazio (euros/kWh)",1,0,183
+32,"0000000032","Custo de acesso às redes da energia ativa consumida no super vazio (euros)",1,1,1026
+33,"0000000033","Taxa de IVA a aplicar no custo dos termos de acesso as redes (%)",1,0,7
+34,"0000000034","Total de energia reativa (kVArh) importada (consumida)",1,1,107
+35,"0000000035","Fator de potência da energia consumida",1,0,31
+36,"0000000036","Total da energia reativa (kVArh) do primeiro escalão de energia reativa importada (consumida)",1,1,107
+37,"0000000037","Preço por KVArh da energia reativa indutiva (consumida) no escalão 1",1,0,193
+38,"0000000038","Custo em euros da energia reativa do primeiro escalão de energia reativa importada (consumida)",1,1,1026
+39,"0000000039","Total da energia reativa (kVArh) do segundo escalão de energia reativa importada (consumida)",1,1,107
+40,"0000000040","Preço por KVArh da energia reativa indutiva (consumida) no escalão 2",1,0,193
+41,"0000000041","Custo em euros da energia reativa do segundo escalão de energia reativa importada (consumida)",1,1,1026
+42,"0000000042","Total da energia reativa (kVArh) do terceiro escalão de energia reativa importada (consumida)",1,1,107
+43,"0000000043","Preço por KVArh da energia reativa indutiva (consumida) no escalão 3",1,0,193
+44,"0000000044","Custo em euros da energia reativa do terceiro escalão de energia reativa importada (consumida)",1,1,1026
+45,"0000000045","Taxa de IVA a aplicar no custo da energia reativa indutiva (%)",1,0,7
+46,"0000000046","Quantidade em kVArh de energia reativa capacitiva (fornecida)",1,1,107
+47,"0000000047","Preço por KVArh da energia reativa capacitiva (fornecida)",1,0,193
+48,"0000000048","Custo em euros de energia reativa capacitiva (fornecida)",1,1,1026
+49,"0000000049","Taxa de IVA a aplicar no custo da energia reativa capacitiva (%)",1,0,7
+50,"0000000050","Potência contratada (kW)",1,0,9

@@ -1,0 +1,50 @@
+1,"Semanal Continente (Com Feriados)",2,1,1,0
+2,"Semanal Continente (Sem Feriados)",2,0,1,0
+3,"Semanal Opcional Continente (Com Feriados)",2,1,1,0
+4,"Semanal Opcional Continente (Sem Feriados)",2,0,1,0
+5,"Diário Continente",2,0,1,0
+6,"Diário Açores",2,0,1,0
+7,"Diário Opcional Açores",2,0,1,0
+8,"Diário Madeira",2,0,1,0
+9,"Diário Opcional Madeira",2,0,1,0
+10,"Simples Continente",1,0,1,0
+11,"Simples Açores",1,0,1,0
+12,"Simples Madeira",1,0,1,0
+13,"Ciclo Tarifa Convencional - Acre",1,1,1,0
+14,"Ciclo Tarifa Convencional - Amazonas",1,1,1,0
+15,"Ciclo Tarifa Convencional - Brasília",1,1,1,0
+16,"Ciclo Tarifa Convencional - Fernando Noronha",1,1,1,0
+17,"Ciclo Tarifa Branca - Acre",1,1,1,0
+18,"Ciclo Tarifa Branca - Amazonas",1,1,1,0
+19,"Ciclo Tarifa Branca - Brasília",1,1,1,0
+20,"Ciclo Tarifa Branca - Fernando Noronha",1,1,1,0
+21,"Ciclo Tarifa Branca - Vazio",1,1,1,1
+22,"Ciclo Tarifa Azul - Vazio",1,1,1,1
+23,"Ciclo Tarifa Verde - Vazio",1,1,1,1
+24,"Ciclo Tarifa Branca - CPFL",1,1,1,0
+25,"Ciclo Tarifa Azul - CPFL",1,1,1,0
+26,"Ciclo Tarifa Verde - CPFL",1,1,1,0
+27,"Ciclo Tarifa Branca - CEMIG",1,1,1,0
+28,"Ciclo Tarifa Azul - CEMIG",1,1,1,0
+29,"Ciclo Tarifa Verde - CEMIG",1,1,1,0
+30,"Ciclo Água PT - Vazio",1,1,1,1
+31,"Ciclo Água BR - Vazio",1,1,1,1
+32,"Ciclo Renewable Source BR - Vazio",1,1,1,1
+33,"Ciclo Tarifa Branca - CEB",1,1,1,0
+34,"Ciclo Tarifa Azul - CEB",1,1,1,0
+35,"Ciclo Tarifa Verde - CEB",1,1,1,0
+36,"Ciclo Tarifa Branca - COPEL",1,1,1,0
+37,"Ciclo Tarifa Azul - COPEL",1,1,1,0
+38,"Ciclo Tarifa Verde - COPEL",1,1,1,0
+39,"Ciclo Tarifa Branca - EDP-ES",1,1,1,0
+40,"Ciclo Tarifa Azul - EDP-ES",1,1,1,0
+41,"Ciclo Tarifa Verde - EDP-ES",1,1,1,0
+42,"Ciclo Tarifa Branca - EDP-SP",1,1,1,0
+43,"Ciclo Tarifa Azul - EDP-SP",1,1,1,0
+44,"Ciclo Tarifa Verde - EDP-SP",1,1,1,0
+45,"Semanal Açores",3,1,1,0
+46,"Semanal Madeira (Sem Feriados)",3,0,1,0
+47,"Ciclo Italia",1,1,1,1
+48,"Weekly Spain",1,1,1,1
+49,"Monthly Spain",1,1,1,1
+50,"UK Simple",1,1,1,0
