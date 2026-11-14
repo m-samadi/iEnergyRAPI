@@ -29,7 +29,7 @@ def find_assets(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the assets in the database
+  # Insert information of the assets into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Asset (\
   Id int, Name varchar(255), TypeId int, Active bit\
@@ -72,7 +72,7 @@ def Get_asset_types(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the asset types in the database
+  # Insert information of the asset types into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS AssetType (\
   Id int, Name varchar(255), IsFlexible bit, DomainId int, Domain varchar(255)\

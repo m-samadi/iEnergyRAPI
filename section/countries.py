@@ -29,7 +29,7 @@ def get_countries(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the countries in the database
+  # Insert information of the countries into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Country (\
   Code varchar(255), Description varchar(255)\
@@ -71,7 +71,7 @@ def get_regions(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the regions in the database
+  # Insert information of the regions into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Region (\
   Code varchar(255), Name varchar(255), CountryCode varchar(255), TimeZoneWindows varchar(255), TimeZoneIANA varchar(255)\

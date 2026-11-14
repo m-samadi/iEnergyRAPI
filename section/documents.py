@@ -40,7 +40,7 @@ def find_documents(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the documents in the database
+  # Insert information of the documents into the database
   '''
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Document (\
@@ -82,7 +82,7 @@ def find_document_fields(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the document fields in the database
+  # Insert information of the document fields into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS DocumentField (\
   Id int, Code varchar(255), Description varchar(255), IsNumeric bit, IsAccumulated bit, MeasurementUnit int\

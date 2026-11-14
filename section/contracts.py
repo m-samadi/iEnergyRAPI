@@ -29,7 +29,7 @@ def find_distribution_levels(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the distribution levels in the database
+  # Insert information of the distribution levels into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS DistributionLevel (\
   Id int, Name varchar(255), Country varchar(255), UtilityTypeId int\
@@ -72,7 +72,7 @@ def find_time_use_settings(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the time use settings in the database
+  # Insert information of the time use settings into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS TimeUseSetting (\
   Id int, Name varchar(255), SeasonSeriesId int, HolidayAsSunday bit, Official bit, Dummy bit\
@@ -115,7 +115,7 @@ def find_contracts(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the contracts in the database
+  # Insert information of the contracts into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Contract (\
   Id int, Code varchar(255), ContractTypeId int, RegionCode varchar(255), GroupIds int, SupplierId int\
@@ -158,7 +158,7 @@ def find_contract_attributes(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the contract attributes in the database
+  # Insert information of the contract attributes into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS ContractAttribute (\
   Id int, Name varchar(255), Type int, ValueType int, MeasurementUnit int, MinValue varchar(255), MaxValue varchar(255)\
@@ -202,7 +202,7 @@ def find_contract_versions(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the contract versions in the database
+  # Insert information of the contract versions into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS ContractVersion (\
   Id int, ContractId int, StartDate varchar(255), Version int, DistributionLevelId int, DistributionLevelCycleId int, TimeUseSettingId int, DocumentTypeId int\
@@ -246,7 +246,7 @@ def find_contract_codes(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the contract codes in the database
+  # Insert information of the contract codes into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS ContractCode (\
   GroupId int, ContractCode varchar(255), ContractTypeId int, RegionCode varchar(255), ContractIds int, SupplierId int\

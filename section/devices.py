@@ -29,7 +29,7 @@ def get_devices(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert or update information of the devices in the database
+  # Insert information of the devices into the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Device (\
   Id int, Serial varchar(255), Name varchar(255), DeviceTypeId int, UnitId int, Interval int, IsCommunicating bit,\

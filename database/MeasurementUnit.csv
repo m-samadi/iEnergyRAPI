@@ -1,0 +1,279 @@
+1098,"Yuan","¥",1
+1,"Cubic metre","m³",0
+2,"Kilowatt hour","kWh",0
+3,"Carbon dioxide kilogram","kgCO₂",0
+4,"Tree","tree",0
+5,"Car","car",0
+6,"Celsius degree","°C",0
+7,"Percentage","%",0
+9,"Kilowatt","kW",0
+11,"Volt Ampere reactive hour","VArh",0
+12,"Volt Ampere hour","VAh",0
+13,"Volt Ampere reactive","VAr",0
+14,"Volt Ampere","VA",0
+15,"Ampere","A",0
+16,"Volt","V",0
+17,"Hertz","Hz",0
+18,"","",0
+19,"Time","",0
+20,"Gas cubic metre","m³",0
+21,"Ampere hour","Ah",0
+22,"Parts per million","ppm",0
+23,"Degrees","°",0
+24,"Seconds","s",0
+25,"Metre per second","m/s",0
+26,"Status","status",0
+27,"HectoPascal","hPa",0
+28,"Litre","l",0
+29,"Millimetre","mm",0
+30,"Hits per square centimetre","hits/cm²",0
+31,"NA","na",0
+32,"Minute","min",0
+33,"Day","day",0
+34,"Month","month",0
+35,"Year","year",0
+102,"Tonne","ton",0
+103,"kilogram","kg",0
+104,"dBm","dBm",0
+105,"Kilovolt Ampere hour","kVAh",0
+106,"Lux","Lux",0
+107,"Kilovolt Ampere reactive hour","kVArh",0
+108,"Kilovolt Ampere","kVA",0
+109,"Kilovolt Ampere reactive","kVAr",0
+110,"Watt per square metre","W/m²",0
+111,"pH level","pH",0
+112,"Milligrams per litre","mg/l",0
+113,"Degree days","°.Day",0
+114,"Hour","h",0
+116,"Rotations per minute","rpm",0
+117,"Metre","m",0
+118,"Cubic metre per hour","m³/h",0
+119,"Square metre","m²",0
+120,"Radian","rad",0
+121,"Steradian","sr",0
+122,"Kilograms per cubic metre","kg/m³",0
+124,"Bar","bar",0
+125,"Normal cubic metre","Nm³",0
+126,"Litre per hour","l/h",0
+127,"Cubic metre per minute","m³/min",0
+129,"Litre per second","l/s",0
+130,"Litre per minute","l/min",0
+131,"Pascal","pa",0
+132,"Microsiemens per metre","μS/m",0
+133,"Ohm","Ohm",0
+134,"Millivolts","mV",0
+135,"Nephelometric Turbidity Unit","NTU",0
+136,"Micrograms per litre","μg/l",0
+137,"Kilowatt peak","kWp",0
+138,"Kilowatt hour per square metre","kWh/m²",0
+139,"Kilowatt hour per cubic metre","kWh/m³",0
+140,"Kilowatt hour per degree Celcius","kWh/°C",0
+141,"Kilowatt hour per hour","kWh/h",0
+142,"Kilowatt hour per user","kWh/user",0
+143,"Kilowatt per square metre","kW/m²",0
+144,"Kilowatt per cubic metre","kW/m³",0
+145,"Kilowatt per degree Celcius","kW/°C",0
+146,"Kilowatt per hour","kW/h",0
+147,"Kilowatt per user","kW/user",0
+148,"Cubic metre per square metre","m³/m²",0
+149,"Cubic metre per cubic metre","m³/m³",0
+150,"Cubic metre per degree Celcius","m³/°C",0
+152,"Cubic metre per user","m³/user",0
+153,"Kilowatt hour per guest","kWh/guest",0
+154,"Kilowatt hour per room","kWh/room",0
+155,"Kilowatt hour per meal","kWh/meal",0
+156,"Kilowatt per guest","kW/guest",0
+157,"Kilowatt per room","kW/room",0
+158,"Kilowatt per meal","kW/meal",0
+159,"Cubic metre per guest","m³/guest",0
+160,"Cubic metre per room","m³/room",0
+161,"Cubic metre per meal","m³/meal",0
+162,"Kilowatt hour per passenger","kWh/pass",0
+163,"Kilowatt hour per flight","kWh/flight",0
+164,"Kilowatt hour per cargo","kWh/cargo",0
+165,"Kilowatt hour per mail","kWh/mail",0
+166,"Kilowatt per passenger","kW/pass",0
+167,"Kilowatt per flight","kW/flight",0
+168,"Kilowatt per cargo","kW/cargo",0
+169,"Kilowatt per mail","kW/mail",0
+170,"Cubic metre per passenger","m³/pass",0
+171,"Cubic metre per flight","m³/flight",0
+172,"Cubic metre per cargo","m³/cargo",0
+173,"Cubic metre per mail","m³/mail",0
+174,"Nine litre box of bottles","bx9L",0
+175,"Kilowatt hour per bottle","kWh/bx9L",0
+176,"Kilowatt hour per litre","kWh/L",0
+177,"Cubic metre per bottle","m³/bx9L",0
+178,"Cubic metre per litre","m³/l",0
+179,"Litre per bottle","l/bx9L",0
+180,"Litre per guest","l/guest",0
+181,"Litre per room","l/room",0
+182,"Litre per meal","l/meal",0
+183,"Euros per kilowatt hour","€/kWh",0
+184,"Pounds per kilowatt hour","£/kWh",0
+185,"Megawatt hour","MWh",0
+186,"Feet","ft",0
+187,"Square feet","ft²",0
+188,"Cubic feet","ft³",0
+189,"Euros per hour","€/hour",0
+190,"Euros per day","€/day",0
+191,"Euros per month","€/month",0
+192,"Euros per kilowatt per day","€/kW/day",0
+193,"Euros per kilovolt Ampere reactive hour","€/kVArh",0
+194,"Watt hour per cubic metre","Wh/m³",0
+195,"Global hectare","gha",0
+196,"Global hectare per person","gha/person",0
+197,"Kilometre","km",0
+198,"Kilowatt hour per tonne","kWh/ton ",0
+199,"Cubic metre per tonne","m³/ton",0
+200,"Kilowatt hour per item","kWh/item",0
+201,"Kilowatt hour per batch","kWh/batch",0
+202,"Kilowatt per item","kW/item",0
+203,"Kilowatt per batch","kW/batch",0
+204,"Cubic metre per item","m³/item",0
+205,"Cubic metre per batch","m³/batch",0
+206,"Kilowatt hour per day","kWh/day",0
+207,"Euros per kilowatt hour per day per day","€/(kWh/day)/day",0
+208,"Euros per kilowatt hour per day per month","€/(kWh/day)/month",0
+209,"Dollar per barrel","$/Barr",0
+210,"Euros per dollar","€/$",0
+211,"Reais per kilowatt hour","R$/kWh",0
+212,"Reais per kilowatt per day","R$/kW/day",0
+213,"Reais per kiloVolt Ampere reactive hour","R$/kVArh",0
+214,"Reais per day","R$/day",0
+215,"Reais per kilowatt","R$/kW",0
+216,"Gram per cubic metre","g/m³",0
+217,"Milligrams per cubic metre","mg/m³",0
+218,"Micrograms per cubic metre","μg/m³",0
+219,"Euros per cubic metre","€/m³",0
+220,"Kiloohm","kOhm",0
+221,"Milliampere","mA",0
+222,"Kilowatt per kilowatt peak","kW/kWp",0
+223,"Kilowatt hour per kilowatt peak","kWh/kWp",0
+224,"Gram per kilogram","g/kg",0
+225,"Yen per hour","円/hour",0
+226,"Yen per day","円/day",0
+227,"Yen per month","円/month",0
+228,"Yen per kilowatt hour","円/kWh",0
+229,"Yen per kilowatt per day","円/kW/day",0
+230,"Yen per kilovolt Ampere reactive hour","円/kVArh",0
+231,"Yen per kilowatt hour per day per day","円/(kWh/day)/day",0
+232,"Yen per kilowatt hour per day per month","円/(kWh/day)/month",0
+233,"Yen per cubic metre","円/m³",0
+234,"Reais per cubic metre","R$/m³",0
+235,"Euros per kg","€/kg",0
+236,"Euros per tonne","€/ton ",0
+237,"Megawatt","MW",0
+238,"Euros per megawatt hour","€/MWh",0
+239,"Pounds per megawatt hour","£/MWh",0
+240,"Reais per megawatt hour","R$/MWh",0
+243,"Kilogram per hour","kg/h",0
+244,"Centimetre","cm",0
+245,"Euros per square metre","€/m²",0
+247,"Normal cubic metre per tonne","Nm³/ton",0
+248,"Kilogram per day","kg/day",0
+249,"Kilogram per month","kg/month",0
+250,"Normal cubic metre per hour","Nm³/h",0
+251,"Watt","W",0
+252,"Watt hour","Wh",0
+253,"Kilolitre","kl",0
+254,"Metres per second squared","m/sÂ²",0
+1000,"Afghani","؋",1
+1001,"Ariary","Ar",1
+1002,"Baht","฿",1
+1003,"Balboa","B/.",1
+1004,"Birr","Br",1
+1005,"Bolivar","Bs.",1
+1006,"Boliviano","Bs.",1
+1007,"Cedi","₵",1
+1008,"Colon","₡",1
+1009,"Dalasi","D",1
+1010,"Denar","ден",1
+1011,"Dinar",".د.ب",1
+1012,"Dinar","дин",1
+1013,"Dinar","د.ا",1
+1014,"Dinar","د.ت",1
+1015,"Dinar","د.ج",1
+1016,"Dinar","د.ك",1
+1017,"Dinar","ع.د",1
+1018,"Dinar","ل.د",1
+1019,"Dirham","د. م.",1
+1020,"Dirham","د.إ",1
+1021,"Dobra","Db",1
+1022,"Dollar","$",1
+1023,"Dong","₫",1
+1024,"Dram","դր.",1
+1025,"Escudo","$",1
+1026,"Euro","€",1
+1027,"Florin","ƒ",1
+1028,"Forint","Ft",1
+1029,"Franc","Fr",1
+1030,"Gourde","G",1
+1031,"Guarani","₲",1
+1032,"Hryvnia","₴",1
+1033,"Kina","K",1
+1034,"Kip","₭",1
+1035,"Koruna","Kč",1
+1036,"Krone","kr",1
+1037,"Kuna","kn",1
+1038,"Kwacha","MK",1
+1039,"Kwacha","ZM",1
+1040,"Kwanza","Kz",1
+1041,"Kyat","Ks",1
+1042,"Lari","ლ",1
+1043,"Lek","L",1
+1044,"Lempira","L",1
+1045,"Leone","Le",1
+1046,"Leu","L",1
+1047,"Leu","lei",1
+1048,"Lev","лв",1
+1049,"Lilangeni","L",1
+1050,"Lira","₺",1
+1051,"Loti","L",1
+1052,"Manat","₼",1
+1053,"Manat","m",1
+1054,"Marka","KM",1
+1055,"Metical","MT",1
+1056,"Naira","₦",1
+1057,"Nakfa","Nfk",1
+1058,"Ngultrum","Nu.",1
+1059,"Oro","C$",1
+1060,"Ouguiya","UM",1
+1061,"Pa'anga","T$",1
+1062,"Pataca","P",1
+1063,"Peso","$",1
+1064,"Peso","₱",1
+1065,"Pound","£",1
+1066,"Pound","ج.س.",1
+1067,"Pound","ج.م",1
+1068,"Pound","ل.س",1
+1069,"Pound","ل.ل",1
+1070,"Pula","P",1
+1071,"Quetzal","Q",1
+1072,"Rand","Rs",1
+1073,"Real","R$",1
+1074,"Rial","﷼",1
+1075,"Rial","ر.ع.",1
+1076,"Rial","ر.ق",1
+1077,"Riel","៛",1
+1078,"Ringgit","RM",1
+1079,"Riyal","ر.س",1
+1080,"Ruble","₽",1
+1081,"Ruble","Br",1
+1082,"Rufiyaa",".ރ",1
+1083,"Rupee","₹",1
+1084,"Rupee","Rs",1
+1085,"Rupiah","Rp",1
+1086,"Sheqel","₪",1
+1087,"Shilling","Sh",1
+1088,"Sol","S/.",1
+1089,"Som","лв",1
+1090,"Somoni","SM",1
+1091,"Sum","лв",1
+1092,"Taka","৳",1
+1093,"Tala","T$",1
+1094,"Tenge","₸",1
+1095,"Vatu","Vt",1
+1096,"Won","₩",1
+1097,"Yen","円",1
+1099,"Zloty","zł",1
