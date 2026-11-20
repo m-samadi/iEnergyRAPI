@@ -57,3 +57,6 @@ Each piece of the obtained data is stored in JSON format in the "output" folder 
 
 ## Modeling
 The class diagram is created using the Modelio modeling tool, based on the data obtained. The "modeling" folder contains the Modelio project and the diagram.
+
+## TODO
+New sections will be added to obtain more information from Living Labs.

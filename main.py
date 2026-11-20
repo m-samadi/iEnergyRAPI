@@ -19,14 +19,6 @@ from section import benchmarks
 from section import contracts
 from section import countries
 from section import documents
-from section import integration
-from section import locals
-from section import measurement_units
-from section import reports
-from section import revisions
-from section import suppliers
-from section import timezones
-from section import users
 
 # Import the url and credentials
 url = access.import_url()
@@ -88,33 +80,6 @@ countries.get_regions(url, token)
 # Get information about documents
 documents.find_documents(url, token)
 documents.find_document_fields(url, token)
-
-# Get information about the integration
-integration.get_member_values(url, token)
-integration.get_retail_contract_values(url, token)
-integration.get_REC_contract_values(url, token)
-
-# Find information about locals
-locals.find_locals(url, token)
-
-# Find information about measurement units
-measurement_units.get_measurement_units(url, token)
-
-# Find information about reports
-reports.find_reports(url, token)
-
-# Find information about revisions
-revisions.return_revision_sources(url, token)
-
-# Find information about suppliers
-suppliers.find_suppliers(url, token)
-
-# Find information about timezones
-timezones.find_timezones(url, token)
-
-# Find information about users
-users.find_users(url, token)
-users.return_user_form_data(url, token)
 
 # Compose down the Docker container
 curr_path = os.getcwd()

@@ -29,7 +29,7 @@ def find_tags(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the tags into the database
+  # Insert or update information of the tags in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Tag (\
   Id int, UnitId int, Name varchar(255), TagTypeId int, Virtual bit, CanActuate bit, DeviceId int, LocationId int\

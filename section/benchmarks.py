@@ -29,7 +29,7 @@ def get_benchmarks(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the benchmarks into the database
+  # Insert or update information of the benchmarks in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Benchmark (\
   CountryCode varchar(255), HouseholdId int, Household varchar(255), HabitationAreaId int, HabitationArea varchar(255),\
@@ -74,7 +74,7 @@ def get_households(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the households into the database
+  # Insert or update information of the households in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Household (\
   HouseholdId int, HouseholdName varchar(255)\
@@ -116,7 +116,7 @@ def get_habitation_areas(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the habitation areas into the database
+  # Insert or update information of the habitation areas in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS HabitationArea (\
   HabitationAreaId int, HabitationAreaName varchar(255)\

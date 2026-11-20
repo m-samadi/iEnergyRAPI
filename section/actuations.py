@@ -29,7 +29,7 @@ def find_actuations(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the actuations into the database
+  # Insert or update information of the actuations in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Actuation (\
   Id int, Command varchar(255), Action int, Acknowledged bit, OccurrenceDate varchar(255), TagId int, Status int, LastOccurrenceDate varchar(255), LastResponse varchar(255)\

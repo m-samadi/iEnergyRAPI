@@ -29,7 +29,7 @@ def get_device_types(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the device types into the database
+  # Insert or update information of the device types in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS DeviceType (\
   Id int, Name varchar(255), MeasurementTypeId int, Series int, Type varchar(255), Class varchar(255)\

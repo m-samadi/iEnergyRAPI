@@ -29,7 +29,7 @@ def find_units(url, token):
     json.dump(response_json, file)
     file.close()
 
-  # Insert information of the units into the database
+  # Insert or update information of the units in the database
   client = db_connect.connect()
   client.command("CREATE TABLE IF NOT EXISTS Unit (\
   Id int PRIMARY KEY, Name varchar(255) NOT NULL, StateId int, MacAddress varchar(255), TimeZoneId varchar(255),\
