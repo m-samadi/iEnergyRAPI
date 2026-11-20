@@ -1,5 +1,5 @@
 # The iEnergyRAPI Tool
-iEnergyRAPI is a tool for obtaining real-time data from Cleanwatts Living Labs via REST API. This process is related to renewable energy communities and can be used in various applications, such as digital twins and AI agents.
+iEnergyRAPI is a tool for obtaining real-time data via REST API. This process is related to renewable energy communities and can be used in various applications, such as digital twins and AI agents.
 
 ## Requirements
 The following dependencies must be met before running the tool:
@@ -48,7 +48,7 @@ docker compose down
 ```
 
 ## Run the Tool
-To connect to Living Labs, you need to provide the URL and credentials. This information is available in the url.json and credentials.json files in the "input" folder. However, the credentials have been removed, and only authorized users can use their privileges granted by Cleanwatts Digital. Furthermore, the granularity and date range can be defined in the data.json file, also located in the same folder. This information is necessary for some functions, such as requesting aggregated data. The tool can be run using the following command:
+To connect to the server, you need to provide the URL and credentials. This information is available in the url.json and credentials.json files in the "input" folder. Furthermore, the granularity and date range can be defined in the data.json file, also located in the same folder. This information is necessary for some functions, such as requesting aggregated data. The tool can be run using the following command:
 ```
 python3 main.py
 ```
@@ -57,6 +57,3 @@ Each piece of the obtained data is stored in JSON format in the "output" folder 
 
 ## Modeling
 The class diagram is created using the Modelio modeling tool, based on the data obtained. The "modeling" folder contains the Modelio project and the diagram.
-
-## TODO
-New sections will be added to obtain more information from Living Labs.

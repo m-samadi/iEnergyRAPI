@@ -1,8 +1,7 @@
 #***************************************************************
 # main.py
 #
-# This tool retrieves real-time data from Cleanwatts Living Labs
-# via the REST API.
+# This tool retrieves real-time data via the REST API.
 #***************************************************************
 from section import access
 from section import sessions
