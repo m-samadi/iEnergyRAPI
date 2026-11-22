@@ -53,7 +53,7 @@ To connect to the server, you need to provide the URL and credentials. This info
 python3 main.py
 ```
 
-Each piece of the obtained data is stored in JSON format in the "output" folder and in the ClickHouse database. It is possible to connect to the database via the local URL mentioned above and view the data using SQL queries. However, some data is also available in the "result" folder. The "database" folder contains a backup of the database based on the data obtained.
+Each piece of the obtained data can be stored in JSON format in the "output" folder and in the ClickHouse database. It is possible to connect to the database via the local URL mentioned above and view the data using SQL queries.
 
 ## Modeling
-The class diagram is created using the Modelio modeling tool, based on the data obtained. The "modeling" folder contains the Modelio project and the diagram.
+The class diagram is created using the Modelio tool, based on the data obtained. The "modeling" folder contains the class diagram.
